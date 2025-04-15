@@ -1,5 +1,5 @@
                                 
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 // Calculate the count of digits in 'n'
 // Optimized Solution
